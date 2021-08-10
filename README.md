@@ -16,3 +16,7 @@ By obtaining the features from next part now we should convert these small image
 ## Graph Attention Network and Graph Pooling
 By converting each image to a graph now we can perform graph operation on the image. In this work the goal is to find an embedding for each image so I used the lables for the classification task and perfomed graph classification algorithm to obtain the final embedding.
 ![Alt text](https://github.com/alizindari/High-resolution-image-embedding/blob/main/images/graph.png "Graph Pooling")
+
+
+## Dataset
+The dataset is from FloodNet challenge that can be accessed from <a href="http://www.classic.grss-ieee.org/earthvision2021/challenge.html" target="_top">Here</a>
